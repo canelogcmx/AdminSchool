@@ -1,0 +1,2 @@
+# AdminSchool
+Sistema administrativo escolar
